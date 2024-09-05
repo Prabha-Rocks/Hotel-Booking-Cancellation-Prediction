@@ -3,7 +3,8 @@ Developed a predictive model to forecast hotel booking cancellations by analyzin
 Identified key patterns to enhance booking strategies and improve operational  efficiency. 
 By analyzing historical booking data, the model aims to identify patterns and factors that contribute to cancellations.
 
-# Dataset Link - https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+# Dataset Link:
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 # Assumptions
 • Sufficient Historical Data: The historical booking data is assumed to be representative enough to generalize patterns to future bookings.
